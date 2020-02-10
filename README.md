@@ -6,23 +6,16 @@
 <head>
 	<title>Assignment 2-1</title>
 
-	<style type= "text/css">
-
-	</style>
-
 </head>
 
-<body>
-
-	<hi>Instructions</hi>
+<body> 
+	<h1>Instructions<h1>
 	<u1>
 		<li>1. Read over the short story.</li>
 		<li>2. Enter the name of the character in the story.</li>
 		<li>3. Write at least 20 words describing the character.</li>
 	</ul>
-	
 	<form id="mturk_form" name="mturk_form">
-
 		<div>
 			<fieldset>
 				<legend>Story</legend>
@@ -42,10 +35,7 @@
 				</p>
 			</fieldset>
 		</div>
-
 		<input type="submit">
-
-
 	</form>
 
 </body>
